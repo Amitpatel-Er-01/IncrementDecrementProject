@@ -1,4 +1,4 @@
-let count=1;
+let count=0;
 function increment(){
     count++;
     document.getElementById("data_cont").innerHTML=count;
